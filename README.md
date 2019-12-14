@@ -1,2 +1,2 @@
 # FlappyBird
-A game is flapping in the sky
+这是一个使用swift 2.2版本编写的
